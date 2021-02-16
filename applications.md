@@ -15,7 +15,7 @@ EOF
 3. Iterm - https://iterm2.com/
      - Themes 
         1. material - https://gist.github.com/Revod/3f3115f8d4b90fc986fd4b61441c2567
-        2. palenight - https://gist.github.com/Revod/3f3115f8d4b90fc986fd4b61441c2567
+        2. palenight - https://github.com/JonathanSpeek/palenight-iterm2
 
 4. shell prompt - https://starship.rs/
 
@@ -38,3 +38,8 @@ EOF
      2. git clone git://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 
 8. homebrew
+
+9. Git
+```
+ git config --global user.name "Your Name"
+ git config --global user.email "your.name@gmail.com"
