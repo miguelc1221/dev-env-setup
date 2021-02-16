@@ -43,3 +43,4 @@ EOF
 ```
  git config --global user.name "Your Name"
  git config --global user.email "your.name@gmail.com"
+ git config --global pager.branch false
