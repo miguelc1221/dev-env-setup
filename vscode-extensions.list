@@ -1,5 +1,3 @@
-angelgonzalez.loremzombie
-bungcip.better-toml
 capaj.vscode-exports-autocomplete
 christian-kohler.path-intellisense
 CoenraadS.bracket-pair-colorizer
@@ -13,13 +11,10 @@ Equinusocio.vsc-material-theme
 equinusocio.vsc-material-theme-icons
 esbenp.prettier-vscode
 golang.go
-HookyQR.JSDocTagComplete
-ionutvmi.path-autocomplete
 jpoissonnier.vscode-styled-components
 mariusschulz.yarn-lock-syntax
 mikestead.dotenv
 mkaufman.HTMLHint
-ms-azuretools.vscode-docker
 ms-vscode.sublime-keybindings
 naumovs.color-highlight
 steoates.autoimport
