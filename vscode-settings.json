@@ -1,62 +1,45 @@
 {
-  "workbench.colorTheme": "Material Theme Palenight High Contrast",
-  "workbench.iconTheme": "eq-material-theme-icons-palenight",
-  "workbench.colorCustomizations": {
-      "[Material Theme Palenight High Contrast]": {
-          "activityBarBadge.background": "#7CB342",
-          "activityBar.activeBorder": "#7CB342",
-          "list.activeSelectionForeground": "#7CB342",
-          "list.inactiveSelectionForeground": "#7CB342",
-          "list.highlightForeground": "#7CB342",
-          "scrollbarSlider.activeBackground": "#7CB34250",
-          "editorSuggestWidget.highlightForeground": "#7CB342",
-          "textLink.foreground": "#7CB342",
-          "progressBar.background": "#7CB342",
-          "pickerGroup.foreground": "#7CB342",
-          "tab.activeBorder": "#7CB342",
-          "notificationLink.foreground": "#7CB342",
-          "editorWidget.resizeBorder": "#7CB342",
-          "editorWidget.border": "#7CB342",
-          "settings.modifiedItemIndicator": "#7CB342",
-          "settings.headerForeground": "#7CB342",
-          "panelTitle.activeBorder": "#7CB342",
-          "breadcrumb.activeSelectionForeground": "#7CB342",
-          "menu.selectionForeground": "#7CB342",
-          "menubar.selectionForeground": "#7CB342",
-          "editor.findMatchBorder": "#7CB342",
-          "selection.background": "#7CB34240",
-          "statusBarItem.remoteBackground": "#7CB342"
-      }
-  },
-  "workbench.activityBar.visible": true,
-  "materialTheme.accent": "Lime",
-  "diffEditor.ignoreTrimWhitespace": false,
-  "editor.codeActionsOnSave": ["source.fixAll"],
-  "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, 'Courier New', monospace",
-  "editor.fontSize": 13,
-  "editor.fontWeight": "300",
-  // "editor.letterSpacing": 1.2,
-  // "editor.fontLigatures": true,
-  "editor.lineHeight": 22,
-  "editor.formatOnSave": true,
-  "editor.formatOnSaveMode": "modifications",
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "go.formatTool": "goimports",
-  "go.useLanguageServer": true,
-  "[go]": {
-      "editor.tabSize": 8,
-      "editor.insertSpaces": false,
-      "editor.formatOnSave": true,
-      "editor.codeActionsOnSave": {
-          "source.organizeImports": true
-      }
-  },
-  "prettier.requireConfig": true,
-  "terminal.integrated.shell.osx": "/bin/zsh",
-  "timeline.excludeSources": [],
-  "[typescriptreact]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "window.zoomLevel": 0
-}
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "workbench.colorCustomizations": {
+        "[Material Theme Palenight High Contrast]": {
+            "activityBarBadge.background": "#7CB342",
+            "activityBar.activeBorder": "#7CB342",
+            "list.activeSelectionForeground": "#7CB342",
+            "list.inactiveSelectionForeground": "#7CB342",
+            "list.highlightForeground": "#7CB342",
+            "scrollbarSlider.activeBackground": "#7CB34250",
+            "editorSuggestWidget.highlightForeground": "#7CB342",
+            "textLink.foreground": "#7CB342",
+            "progressBar.background": "#7CB342",
+            "pickerGroup.foreground": "#7CB342",
+            "tab.activeBorder": "#7CB342",
+            "notificationLink.foreground": "#7CB342",
+            "editorWidget.resizeBorder": "#7CB342",
+            "editorWidget.border": "#7CB342",
+            "settings.modifiedItemIndicator": "#7CB342",
+            "settings.headerForeground": "#7CB342",
+            "panelTitle.activeBorder": "#7CB342",
+            "breadcrumb.activeSelectionForeground": "#7CB342",
+            "menu.selectionForeground": "#7CB342",
+            "menubar.selectionForeground": "#7CB342",
+            "editor.findMatchBorder": "#7CB342",
+            "selection.background": "#7CB34240",
+            "statusBarItem.remoteBackground": "#7CB342"
+        }
+    },
+    "materialTheme.accent": "Lime",
+    "workbench.activityBar.visible": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.codeActionsOnSave": ["source.fixAll"],
+    "editor.fontFamily": "FiraCode Nerd Font Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "prettier.requireConfig": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
